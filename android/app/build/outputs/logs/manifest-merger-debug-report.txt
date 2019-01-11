@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /home/hapro955/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/01c23a816d7155578d5a9bdd4deda02f/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/86518b27e480c078091bf1d67143867d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bb6b1029e8f12536c5687a7554452f6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9c28de372917656cab74064155581dc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a8aa3c1a17b8abf7a62d06850203e68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/617eeb495e14730783001ae0857ae7d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ec18003d5ad45de5011a2cf4958a09a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/154db2e9733bbdeb32dbec5935db8afc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/acbae88863374e667506a025505b4189/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/1bd5e00f4acd1e31a5cba23da1af8951/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/dedb8638fd630a8f29960a46546f2930/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/49356f3259bebcbccf1b3f0d8a22bb1f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/abfc1e9dd7634d2bb7198cdbbd397fe5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e3d905ed9879ee149483176b6a686050/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/hapro955/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d8169fa1726f421d47370864194a149f/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/627981a35188aabe58a1942c24c141a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/989e7be8005c2857629691ec3e2a3d7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/60dbf7d7d4fca4dc21388af01f186d6f/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dc217edb96e28eabd43b7b7f65f64067/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bfbb096cf4cc2b5014343095f7ef59f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /home/hapro955/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/01c23a816d7155578d5a9bdd4deda02f/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /home/hapro955/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/01c23a816d7155578d5a9bdd4deda02f/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /home/hapro955/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/01c23a816d7155578d5a9bdd4deda02f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /home/hapro955/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/01c23a816d7155578d5a9bdd4deda02f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e3d905ed9879ee149483176b6a686050/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e3d905ed9879ee149483176b6a686050/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/hapro955/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d8169fa1726f421d47370864194a149f/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/hapro955/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d8169fa1726f421d47370864194a149f/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /home/hapro955/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/01c23a816d7155578d5a9bdd4deda02f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /home/hapro955/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/01c23a816d7155578d5a9bdd4deda02f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/86518b27e480c078091bf1d67143867d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/86518b27e480c078091bf1d67143867d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bb6b1029e8f12536c5687a7554452f6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bb6b1029e8f12536c5687a7554452f6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9c28de372917656cab74064155581dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9c28de372917656cab74064155581dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a8aa3c1a17b8abf7a62d06850203e68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a8aa3c1a17b8abf7a62d06850203e68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/617eeb495e14730783001ae0857ae7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/617eeb495e14730783001ae0857ae7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ec18003d5ad45de5011a2cf4958a09a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ec18003d5ad45de5011a2cf4958a09a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/154db2e9733bbdeb32dbec5935db8afc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/154db2e9733bbdeb32dbec5935db8afc/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/acbae88863374e667506a025505b4189/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/acbae88863374e667506a025505b4189/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/1bd5e00f4acd1e31a5cba23da1af8951/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/1bd5e00f4acd1e31a5cba23da1af8951/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/dedb8638fd630a8f29960a46546f2930/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/dedb8638fd630a8f29960a46546f2930/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/49356f3259bebcbccf1b3f0d8a22bb1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/49356f3259bebcbccf1b3f0d8a22bb1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/abfc1e9dd7634d2bb7198cdbbd397fe5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/abfc1e9dd7634d2bb7198cdbbd397fe5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e3d905ed9879ee149483176b6a686050/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hapro955/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e3d905ed9879ee149483176b6a686050/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/627981a35188aabe58a1942c24c141a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/627981a35188aabe58a1942c24c141a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/989e7be8005c2857629691ec3e2a3d7b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/989e7be8005c2857629691ec3e2a3d7b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/60dbf7d7d4fca4dc21388af01f186d6f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/60dbf7d7d4fca4dc21388af01f186d6f/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dc217edb96e28eabd43b7b7f65f64067/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dc217edb96e28eabd43b7b7f65f64067/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bfbb096cf4cc2b5014343095f7ef59f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/hapro955/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bfbb096cf4cc2b5014343095f7ef59f/AndroidManifest.xml:20:5-44
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/hapro955/projects/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,4 @@
+#Thu Dec 27 16:28:27 ICT 2018
+base.0=/home/hapro955/projects/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
